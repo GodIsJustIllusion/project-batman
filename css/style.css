@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 13.2rem;
     height: 13.2rem;
     border-radius: 50%;
-    background-color: #391917;
+    background-color: rgba(21, 21, 21, 0..5);
     display: flex;
     justify-content: center;
     align-items: center;
